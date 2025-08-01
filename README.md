@@ -19,6 +19,8 @@
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+![Dbeaver](https://img.shields.io/badge/-dbeaver-333333?style=flat&logo=dbeaver)
 
 **DevOps**
 
@@ -27,11 +29,15 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
+
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-vscode-333333?style=flat&logo=vscode&logoColor=007ACC)
+![rstudio](https://img.shields.io/badge/-rstudio-333333?style=flat&logo=rstudio&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Clickup](https://img.shields.io/badge/-clickup-333333?style=flat&logo=clickup&logoColor=007ACC)
+![Jira](https://img.shields.io/badge/-jira-333333?style=flat&logo=jira&logoColor=007ACC)
 
 <br/>
 
