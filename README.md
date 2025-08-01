@@ -42,6 +42,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/raissa-sabino/))]([(https://www.linkedin.com/in/raissa-sabino/)])
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raissa-sabino/)]([(https://www.linkedin.com/in/raissa-sabino/)])
 [![Gmail Badge](https://img.shields.io/badge/-gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raissasilvasabino@gmail.com)](mailto:raissasilvasabino@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Ra2861)
